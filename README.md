@@ -23,3 +23,9 @@ Entry point will load the data into memory and batch it over based on the identi
 Forwarder is used to move the data through the network. Each forwarder can use a different protocol based on what is allowed through the firewall as well as what is working best currently.
 
 The End Point can be used to push data out of the network via different exfil situations. 
+
+High Level:
+![Image description](link-to-image)
+
+Internal:
+![Image description](link-to-image)
