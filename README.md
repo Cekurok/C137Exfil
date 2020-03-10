@@ -25,7 +25,7 @@ Forwarder is used to move the data through the network. Each forwarder can use a
 The End Point can be used to push data out of the network via different exfil situations. 
 
 High Level:
-![Image description](link-to-image)
+![Image description](https://redteamnation.com/wp-content/uploads/2020/03/C137_high_level.png)
 
 Internal:
-![Image description](link-to-image)
+![Image description](https://redteamnation.com/wp-content/uploads/2020/03/c137_Internal.png)
